@@ -1,0 +1,13 @@
+{
+	"name": "com.ligofff.comfygooglesheets",
+	"displayName": "Comfy Google Sheets",
+	"version": "1.0.0",
+	"unity": "2022.2",
+	"description": "Comfy Google Sheets - Unity package for easy push/pull engine assets data to/from google sheets.",
+	"category": "",
+	"author": {
+		"name": "Ligofff",
+		"email": "liga@ligofff.ru",
+		"url": "https://github.com/fffogil"
+	}
+}
