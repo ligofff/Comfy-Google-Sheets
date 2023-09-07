@@ -6,6 +6,8 @@ Comfy Google Sheets is a Unity package that facilitates easy pushing and pulling
 
 > :warning: **Currently asset in WIP stage! Can contains bugs and dirty, unoptimized code!**
 
+> [My Telegram channel](https://t.me/ligofff_blog)
+
 ## Overview
 Comfy Google Sheets simplifies the process by providing an easy-to-use interface that integrates directly with Google Sheets.<br />
 
