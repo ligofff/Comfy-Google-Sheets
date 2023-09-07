@@ -9,6 +9,7 @@ using Object = UnityEngine.Object;
 
 namespace Plugins.ComfyGoogleSheets.Editor
 {
+    [CreateAssetMenu(menuName = "ComfyGoogleSheets/Assets Container", fileName = "new ComfyGoogleSheetsAssetsContainer")]
     public class ComfyGoogleSheetsAssetsContainer : ScriptableObject
     {
         public GoogleSheetsCredits credits;
