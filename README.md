@@ -27,7 +27,7 @@ https://github.com/fffogil/Comfy-Google-Sheets/assets/44195161/7c23d294-8e91-4be
 * [NuGet Google APIs Client Library for working with Sheets v4](https://www.nuget.org/packages/Google.Apis.Sheets.v4/)
 
 ### Install via GIT URL
-Go to ```Package Manager``` -> ```Add package from GIT url...``` -> Enter ```https://github.com/fffogil/Comfy-Google-Sheets.git``` -> Click ```Add```
+Go to ```Package Manager``` -> ```Add package from GIT url...``` -> Enter ```https://github.com/ligofff/Comfy-Google-Sheets.git``` -> Click ```Add```
 
 You will need to have Git installed and available in your system's PATH.
 
