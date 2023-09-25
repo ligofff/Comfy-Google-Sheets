@@ -24,7 +24,7 @@ https://github.com/fffogil/Comfy-Google-Sheets/assets/44195161/7c23d294-8e91-4be
 ## Minimum Requirements
 * The tool is designed for Unity 2022.2 and higher versions.
 * [Odin Inspector](https://odininspector.com/)
-* [NuGet Google APIs Client Library for working with Sheets v4](https://www.nuget.org/packages/Google.Apis.Sheets.v4/)
+* [NuGet Google APIs Client Library for working with Sheets v4](https://www.nuget.org/packages/Google.Apis.Sheets.v4/) *(Be sure to install with dependencies - Apis, Apis.Core, Apis.Auth)*
 
 ### Install via GIT URL
 Go to ```Package Manager``` -> ```Add package from GIT url...``` -> Enter ```https://github.com/ligofff/Comfy-Google-Sheets.git``` -> Click ```Add```
